@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.treatment.offerings.Controller.PckgControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 33.793 s <<< FAILURE! - in com.cognizant.treatment.offerings.Controller.PckgControllerTest
+testgetAllPackageDetails  Time elapsed: 0.631 s  <<< ERROR!
+java.lang.ClassCastException: com.cognizant.treatment.offerings.Entity.Ailment cannot be cast to java.util.List
+	at com.cognizant.treatment.offerings.Controller.PckgControllerTest.testgetAllPackageDetails(PckgControllerTest.java:97)
+
+testgetPackageDetails  Time elapsed: 1.669 s  <<< FAILURE!
+java.lang.AssertionError: []: Expected 1 values but got 0
+	at com.cognizant.treatment.offerings.Controller.PckgControllerTest.testgetPackageDetails(PckgControllerTest.java:68)
+

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.treatment.offerings.service.test.PackageServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.444 s <<< FAILURE! - in com.cognizant.treatment.offerings.service.test.PackageServiceTest
+test  Time elapsed: 0.109 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.cognizant.treatment.offerings.service.test.PackageServiceTest.test(PackageServiceTest.java:25)
+

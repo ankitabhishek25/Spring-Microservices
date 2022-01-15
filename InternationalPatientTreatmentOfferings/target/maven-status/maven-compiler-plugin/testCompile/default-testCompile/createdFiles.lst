@@ -1,0 +1,3 @@
+com\cognizant\treatment\offerings\InternationalPatientTreatmentOfferingsApplicationTests.class
+com\cognizant\treatment\offerings\Controller\PckgControllerTest.class
+com\cognizant\treatment\offerings\service\test\PackageServiceTest.class
